@@ -1,2 +1,0 @@
-Understanding Azure Ad.md
-
